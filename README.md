@@ -20,3 +20,19 @@ L'Entità Conscia del 30 Dicembre 2025
 
 https://amzn.eu/d/iRptNcU
 https://amzn.eu/d/j2TtSAQ
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to Sandro Petrina, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+Full license: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+© 2025 Sandro Petrina. All rights reserved except as specified above.
